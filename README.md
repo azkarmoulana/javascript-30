@@ -3,12 +3,12 @@
 ***
 1.  JavaScript Drum Kit
 2.  JS and CSS Clock
-3 - CSS Variables
-04 - Array Cardio Day 1
-05 - Flex Panel Gallery
-06 - Type Ahead
-07 - Array Cardio Day 2
-08 - Fun with HTML5 Canvas
+3.  CSS Variables
+4.  Array Cardio Day 1
+5.  Flex Panel Gallery
+6.  Type Ahead
+7.  Array Cardio Day 2
+8.  Fun with HTML5 Canvas
 drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '09 - Dev Tools Domination'/
 drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '10 - Hold Shift and Check Checkboxes'/
 drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '11 - Custom Video Player'/
