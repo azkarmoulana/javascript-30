@@ -9,15 +9,15 @@
 6.  Type Ahead
 7.  Array Cardio Day 2
 8.  Fun with HTML5 Canvas
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '09 - Dev Tools Domination'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '10 - Hold Shift and Check Checkboxes'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '11 - Custom Video Player'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '12 - Key Sequence Detection'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '13 - Slide in on Scroll'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '14 - JavaScript References VS Copying'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '15 - LocalStorage'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '16 - Mouse Move Shadow'/
-drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '17 - Sort Without Articles'/
+9 - Dev Tools Domination'/
+10 - Hold Shift and Check Checkboxes'/
+11 - Custom Video Player'/
+12 - Key Sequence Detection'/
+13 - Slide in on Scroll'/
+14 - JavaScript References VS Copying'/
+15 - LocalStorage'/
+16 - Mouse Move Shadow'/
+17 - Sort Without Articles'/
 drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '18 - Adding Up Times with Reduce'/
 drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '19 - Webcam Fun'/
 drwxr-xr-x 1 Azkar 197609  0 Oct 12 11:27 '20 - Speech Detection'/
