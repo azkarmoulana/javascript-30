@@ -1,5 +1,5 @@
-# javascript-30
-30 different applications with vanilla javascript  
+# JavaScript-30
+30 different applications with vanilla javascript   
 [Vanilla JS](http://vanilla-js.com/)
 ***
 ![alt text](https://tfrommen.de/wp-content/uploads/javascript30-hero-1920x720.jpg "javascript")
