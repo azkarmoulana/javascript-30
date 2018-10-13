@@ -2,7 +2,7 @@
 30 different applications with vanilla javascript  
 [Vanilla JS](http://vanilla-js.com/)
 ***
-![alt text](http://blog.sabilarusyda.com/wp-content/uploads/2018/01/JavaScript-Logo.jpg "javascript")
+![alt text](https://tfrommen.de/wp-content/uploads/javascript30-hero-1920x720.jpg "javascript")
 1. - JavaScript Drum Kit
 2. - JS and CSS Clock
 3. - CSS Variables
